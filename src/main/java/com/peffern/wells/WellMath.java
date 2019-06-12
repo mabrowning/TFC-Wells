@@ -3,7 +3,7 @@ package com.peffern.wells;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.bioxx.tfc.api.Constant.Global;
+import com.dunk.tfc.api.Constant.Global;
 
 /**
  * Utility class for all well environmental calculations

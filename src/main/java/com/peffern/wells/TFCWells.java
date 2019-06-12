@@ -1,6 +1,6 @@
 package com.peffern.wells;
 
-import com.bioxx.tfc.api.TFCItems;
+import com.dunk.tfc.api.TFCItems;
 
 import cpw.mods.fml.client.registry.RenderingRegistry;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -24,7 +24,7 @@ import net.minecraftforge.oredict.ShapedOreRecipe;
  * @author peffern
  *
  */
-@Mod(modid = TFCWells.MODID, name = TFCWells.MODNAME, version = TFCWells.VERSION, dependencies = "required-after:" + "terrafirmacraft" + ";")
+@Mod(modid = TFCWells.MODID, name = TFCWells.MODNAME, version = TFCWells.VERSION, dependencies = "required-after:" + "terrafirmacraftplus" + ";")
 public class TFCWells 
 {
 	/** Mod instance Singleton */

@@ -1,8 +1,8 @@
 package com.peffern.wells;
 
-import com.bioxx.tfc.Items.ItemBlocks.ItemTerraBlock;
-import com.bioxx.tfc.api.Enums.EnumSize;
-import com.bioxx.tfc.api.Enums.EnumWeight;
+import com.dunk.tfc.Items.ItemBlocks.ItemTerraBlock;
+import com.dunk.tfc.api.Enums.EnumSize;
+import com.dunk.tfc.api.Enums.EnumWeight;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.ItemStack;

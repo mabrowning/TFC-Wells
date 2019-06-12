@@ -1,7 +1,7 @@
 package com.peffern.wells;
 
-import com.bioxx.tfc.Blocks.BlockTerraContainer;
-import com.bioxx.tfc.Core.TFCTabs;
+import com.dunk.tfc.Blocks.BlockTerraContainer;
+import com.dunk.tfc.Core.TFCTabs;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
